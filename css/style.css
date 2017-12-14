@@ -1,0 +1,18 @@
+.style-containers{
+    position: absolute;
+    overflow: hidden
+}
+#container{
+    width: 41px;
+    height: 57px;
+}
+
+#flappy-container{
+    width: 92px;
+    height: 64px;
+}
+
+img{
+    position: relative;
+}
+
